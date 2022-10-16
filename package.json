@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^3.0.0",
-    "autoprefixer": "^10.0.4",
+    "autoprefixer": "^10.0.6",
     "framer-motion": "^2.9.5",
     "next": "10.0.3",
     "postcss": "^8.1.10",
